@@ -1,4 +1,4 @@
-# Page object Model pattern sample - BLANKFACTOR
+# Page object Model pattern sample
 
  This project contains an example of the page object model pattern, where we try to show multiple ways to organize and implement different tools, methods, functions, etc, but without forgetting the design pattern
 
